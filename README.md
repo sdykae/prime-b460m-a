@@ -12,3 +12,8 @@ https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#k
 Quirks
 
 If CFG-Lock
+
+now -- 
+https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/troubleshooting.html#bios-reset-or-sent-into-safemode-after-reboot-shutdown
+
+

@@ -565,7 +565,7 @@
 			<key>DisableIoMapper</key>
 			<false/>
 			<key>DisableRtcChecksum</key>
-			<false/>
+			<true/>
 			<key>DummyPowerManagement</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
