@@ -5,3 +5,10 @@ skiping unknow
 ~~~~
 
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point
+
+
+https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#kernel
+
+Quirks
+
+If CFG-Lock
